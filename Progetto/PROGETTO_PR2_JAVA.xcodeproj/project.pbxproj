@@ -1,0 +1,262 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		1F0E56E423983568000C500E /* Data.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; name = Data.java; path = "Data e Sottoclassi/Data.java"; sourceTree = "<group>"; };
+		1F0E56E52398356F000C500E /* Board.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; path = Board.java; sourceTree = "<group>"; };
+		1F0E56E723983660000C500E /* TechNews.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; name = TechNews.java; path = "Data e Sottoclassi/TechNews.java"; sourceTree = "<group>"; };
+		1F0E56E82398367D000C500E /* UniNews.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; name = UniNews.java; path = "Data e sottoclassi/UniNews.java"; sourceTree = "<group>"; };
+		1F0E56E923983699000C500E /* CalcioNews.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; name = CalcioNews.java; path = "Data e Sottoclassi/CalcioNews.java"; sourceTree = "<group>"; };
+		1F0E56EA239836E1000C500E /* FakeNews.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; name = FakeNews.java; path = "Data e sottoclassi/FakeNews.java"; sourceTree = "<group>"; };
+		1F0E56EB23983F32000C500E /* TestBattery.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = TestBattery.java; sourceTree = "<group>"; };
+		1F1D792423998655004825E9 /* CategoryNotFoundException.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; name = CategoryNotFoundException.java; path = Eccezioni/CategoryNotFoundException.java; sourceTree = "<group>"; };
+		1F1D792523998655004825E9 /* AlreadyExistingCategoryException.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; name = AlreadyExistingCategoryException.java; path = Eccezioni/AlreadyExistingCategoryException.java; sourceTree = "<group>"; };
+		1F1D792623998655004825E9 /* DatoAlreadyAddedException.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; name = DatoAlreadyAddedException.java; path = Eccezioni/DatoAlreadyAddedException.java; sourceTree = "<group>"; };
+		1F1D792723998655004825E9 /* FriendAlreadyAddedException.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; name = FriendAlreadyAddedException.java; path = Eccezioni/FriendAlreadyAddedException.java; sourceTree = "<group>"; };
+		1F1D792823998655004825E9 /* DatoNotFoundException.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; name = DatoNotFoundException.java; path = Eccezioni/DatoNotFoundException.java; sourceTree = "<group>"; };
+		1F1D792923998655004825E9 /* NotInFriendlistException.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; name = NotInFriendlistException.java; path = Eccezioni/NotInFriendlistException.java; sourceTree = "<group>"; };
+		1F1D792A23998655004825E9 /* FriendAlreadyLikedException.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; name = FriendAlreadyLikedException.java; path = Eccezioni/FriendAlreadyLikedException.java; sourceTree = "<group>"; };
+		1F1D792B23998655004825E9 /* WrongPasswordException.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; name = WrongPasswordException.java; path = Eccezioni/WrongPasswordException.java; sourceTree = "<group>"; };
+		1F1D792C23998655004825E9 /* FriendNotFoundException.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; name = FriendNotFoundException.java; path = Eccezioni/FriendNotFoundException.java; sourceTree = "<group>"; };
+		1F4D13F5239A9C420030AF69 /* Board_V.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Board_V.java; sourceTree = "<group>"; };
+		1F4D13F6239AB0510030AF69 /* PisaNews.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; name = PisaNews.java; path = "Data e Sottoclassi/PisaNews.java"; sourceTree = "<group>"; };
+		1F61766F23881431008B59EF /* InterfaceDocumented.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = InterfaceDocumented.java; sourceTree = "<group>"; };
+		1F89C2A5239883C600B5FF70 /* DataBoard.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; name = DataBoard.java; path = "Interfaccia (CONSEGNA)/DataBoard.java"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		1F9BE8C5234BE0CD008B216B = {
+			isa = PBXGroup;
+			children = (
+				1F4D13F5239A9C420030AF69 /* Board_V.java */,
+				1F1D792523998655004825E9 /* AlreadyExistingCategoryException.java */,
+				1F1D792423998655004825E9 /* CategoryNotFoundException.java */,
+				1F1D792623998655004825E9 /* DatoAlreadyAddedException.java */,
+				1F1D792823998655004825E9 /* DatoNotFoundException.java */,
+				1F1D792723998655004825E9 /* FriendAlreadyAddedException.java */,
+				1F1D792A23998655004825E9 /* FriendAlreadyLikedException.java */,
+				1F1D792C23998655004825E9 /* FriendNotFoundException.java */,
+				1F1D792923998655004825E9 /* NotInFriendlistException.java */,
+				1F1D792B23998655004825E9 /* WrongPasswordException.java */,
+				1F0E56EB23983F32000C500E /* TestBattery.java */,
+				1F0E56E423983568000C500E /* Data.java */,
+				1F0E56EA239836E1000C500E /* FakeNews.java */,
+				1F0E56E923983699000C500E /* CalcioNews.java */,
+				1F0E56E82398367D000C500E /* UniNews.java */,
+				1F0E56E723983660000C500E /* TechNews.java */,
+				1F4D13F6239AB0510030AF69 /* PisaNews.java */,
+				1F89C2A5239883C600B5FF70 /* DataBoard.java */,
+				1F0E56E52398356F000C500E /* Board.java */,
+				1F61766F23881431008B59EF /* InterfaceDocumented.java */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		1F9BE8CA234BE0CD008B216B /* Test */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION) $(TARGETNAME).java";
+			buildConfigurationList = 1F9BE8CD234BE0CD008B216B /* Build configuration list for PBXLegacyTarget "Test" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/javac;
+			buildWorkingDirectory = "";
+			dependencies = (
+			);
+			name = Test;
+			passBuildSettingsInEnvironment = 1;
+			productName = JavaEsempio;
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		1F9BE8C6234BE0CD008B216B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1100;
+				ORGANIZATIONNAME = "Defra Inc.";
+				TargetAttributes = {
+					1F9BE8CA234BE0CD008B216B = {
+						CreatedOnToolsVersion = 11.0;
+					};
+				};
+			};
+			buildConfigurationList = 1F9BE8C9234BE0CD008B216B /* Build configuration list for PBXProject "PROGETTO_PR2_JAVA" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1F9BE8C5234BE0CD008B216B;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1F9BE8CA234BE0CD008B216B /* Test */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		1F9BE8CB234BE0CD008B216B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+			};
+			name = Debug;
+		};
+		1F9BE8CC234BE0CD008B216B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+			};
+			name = Release;
+		};
+		1F9BE8CE234BE0CD008B216B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEBUGGING_SYMBOLS = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		1F9BE8CF234BE0CD008B216B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1F9BE8C9234BE0CD008B216B /* Build configuration list for PBXProject "PROGETTO_PR2_JAVA" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1F9BE8CB234BE0CD008B216B /* Debug */,
+				1F9BE8CC234BE0CD008B216B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1F9BE8CD234BE0CD008B216B /* Build configuration list for PBXLegacyTarget "Test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1F9BE8CE234BE0CD008B216B /* Debug */,
+				1F9BE8CF234BE0CD008B216B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1F9BE8C6234BE0CD008B216B /* Project object */;
+}
